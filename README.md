@@ -33,7 +33,10 @@ After that is where the things are more complicated, there are problems with com
 ```
  ng add @ng-bootstrap/ng-bootstrap@next 
 ```
-
+or
+```
+ npm install @ng-bootstrap/ng-bootstrap@next 
+```
 It's almost done, don't worry for that.
 Look and verify if your module is loaded in typescript you could import it(app.module.ts)
 ```
